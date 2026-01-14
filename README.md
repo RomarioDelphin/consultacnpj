@@ -94,6 +94,4 @@ git clone [https://github.com/RomarioDelphin/consultacnpj.git](https://github.co
 <p>Desenvolvido por <strong>Romário Delphin</strong> como parte do portfólio <strong>RAM.IO Holdings</strong>.</p>
 </div>
 
-```
 
-```
